@@ -1,0 +1,7 @@
+.songs-container {
+    margin: 40px 18px;
+}
+
+.songs-container>div {
+    margin-bottom: 10px;
+}
